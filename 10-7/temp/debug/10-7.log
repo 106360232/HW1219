@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\user.user-pc\desktop\hw\hw1219\10-7\source\main.c(27): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  10-7.vcxproj -> C:\Users\user.user-PC\Desktop\HW\HW1219\10-7\10-7\10-7\..\..\temp\debug\10-7.exe
+  10-7.vcxproj -> ..\..\temp\debug\10-7.pdb (Partial PDB)

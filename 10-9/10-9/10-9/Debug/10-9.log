@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\user.user-pc\desktop\hw\hw1219\10-9\source\main.c(19): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  10-9.vcxproj -> C:\Users\user.user-PC\Desktop\HW\HW1219\10-9\10-9\Debug\10-9.exe
+  10-9.vcxproj -> C:\Users\user.user-PC\Desktop\HW\HW1219\10-9\10-9\Debug\10-9.pdb (Partial PDB)
